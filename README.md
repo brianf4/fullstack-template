@@ -18,3 +18,4 @@
 # Run
 
 `npm start`
+npx tailwindcss -i ./public/css/style.css -o ./dist/output.css --watch
